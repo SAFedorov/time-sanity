@@ -4,9 +4,9 @@ Time-Sanity is the simplest Chrome Extension which redirects you to [arxiv-sanit
 
 Watch less youtube, read more interesting articles and useful ideas.
 
-## How to use
+## How to use it
 
-You can install Chrome Extension: [Time-Sanity](https://chrome.google.com/webstore/detail/time-sanity/bbbnbelnchbhhmkfhdlojggnfhcklhpg).
+The content of `code` folder can be installed as an unpacked extension as described in the [Chrome docs](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
 
 ## Acknowledgments
 
